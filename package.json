@@ -1,0 +1,7 @@
+{
+  "dependencies": {
+    "require": "^2.4.20",
+    "require-text": "^0.0.1",
+    "requirejs": "^2.3.6"
+  }
+}
